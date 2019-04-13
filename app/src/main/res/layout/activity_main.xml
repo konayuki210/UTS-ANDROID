@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Best Meta Mobile Legend Bang-Bang,
+there are 3 the most played hero this page"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==================================================="
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==================================================="
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==================================================="
+        />
+
+
+    <Button
+        android:text="Akai"
+        android:id="@+id/btnAkai"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==================================================="
+        />
+    <Button
+        android:text="Natalia"
+        android:id="@+id/btnNatalia"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==================================================="
+        />
+    <Button
+        android:text="Layla"
+        android:id="@+id/btnLayla"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </Button>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==================================================="
+        />
+</LinearLayout>
